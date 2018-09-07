@@ -5,7 +5,7 @@ Een evenement vindt plaats op een bepaalde datum, deze datum bepaalt wanneer de 
 
 ### Waar vind je campagnes
 
-Je vind alle campagnes terug, hier op github onder [https://github.com/BasketLummen/Communicatie/milestones?direction=asc&sort=due_date&state=open](milestones).
+Je vind alle campagnes terug, hier op github onder [milestones](https://github.com/BasketLummen/Communicatie/milestones?direction=asc&sort=due_date&state=open).
 Voor elke campagne wordt de datum van het evenement opgenomen in de titel, maar ook ingesteld als due date. 
 
 Deze due date stelt de deadline voor voor alle activiteiten die voor het evenement uitgevoerd worden.
@@ -16,7 +16,7 @@ Op elke campagne wordt weer gegeven hoeveel % van de campagne al voltooid is, en
 
 ### Activiteiten in een campagne beheren
 
-Wil je de activiteiten binnen een campagne beheren, dan doe je dat best via de [https://github.com/BasketLummen/Communicatie/issues](issues) tab en dan filteren op `milestone`, nu zie je alle issues in de campagne, maar heb je veel meer filter mogelijkheden.
+Wil je de activiteiten binnen een campagne beheren, dan doe je dat best via de [issues](https://github.com/BasketLummen/Communicatie/issues) tab en dan filteren op `milestone`, nu zie je alle issues in de campagne, maar heb je veel meer filter mogelijkheden.
 
 Elk issue stelt een activiteit voor, indien een activiteit tot een campagne behoort wordt dit weergegeven door de milestone van het issue te zetten.
 
@@ -37,7 +37,7 @@ Indien een activiteit dringend uitgevoerd moet worden, kan je er het `urgent` la
 
 ### Het overzicht bewaren
 
-Uiteraard gaan er meerdere campagnes tegelijk lopen, met taken in verschillende stadia. Om het overzicht te bewaren is er een [https://github.com/BasketLummen/Communicatie/projects/1](project board) waar we een visueel overzicht hebben welke taken er uitgevoerd moeten worden deze week, deze maand of op langere termijn.
+Uiteraard gaan er meerdere campagnes tegelijk lopen, met taken in verschillende stadia. Om het overzicht te bewaren is er een [project board](https://github.com/BasketLummen/Communicatie/projects/1) waar we een visueel overzicht hebben welke taken er uitgevoerd moeten worden deze week, deze maand of op langere termijn.
 
 Als je begint te werken aan een taak sleep je die naar de `in-progress` kolom en ken je het issue aan jezelf toe door op de issue link te clicken en jezelf toe te voegen aan de `assignees`.
 
