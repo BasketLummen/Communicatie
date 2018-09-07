@@ -1,11 +1,11 @@
 ## Campagnes
 
 Een campagne groepeert al de communicatie activiteiten rond een bepaald evenement, bijvoorbeeld een eetdag. 
-Een evenement vindt plaats op een bepaalde datum, deze datum bepaalt wanneer de activiteiten dienen uitgevoerd te worden: voor of na het evenement.
+Een evenement vindt plaats op een bepaalde datum, deze datum bepaalt wanneer de activiteiten dienen uitgevoerd te worden: voor, tijdens of na het evenement.
 
 ### Waar vind je campagnes
 
-Je vind alle campagnes terug, hier op github onder [milestones](https://github.com/BasketLummen/Communicatie/milestones?direction=asc&sort=due_date&state=open).
+Je vind alle campagnes terug, hier op github, onder [milestones](https://github.com/BasketLummen/Communicatie/milestones?direction=asc&sort=due_date&state=open).
 Voor elke campagne wordt de datum van het evenement opgenomen in de titel, maar ook ingesteld als due date. 
 
 Deze due date stelt de deadline voor voor alle activiteiten die voor het evenement uitgevoerd worden.
@@ -16,7 +16,7 @@ Op elke campagne wordt weer gegeven hoeveel % van de campagne al voltooid is, en
 
 ### Activiteiten in een campagne beheren
 
-Wil je de activiteiten binnen een campagne beheren, dan doe je dat best via de [issues](https://github.com/BasketLummen/Communicatie/issues) tab en dan filteren op `milestone`, nu zie je alle issues in de campagne, maar heb je veel meer filter mogelijkheden.
+Wil je de activiteiten binnen een campagne beheren, dan doe je dat best via de [issues](https://github.com/BasketLummen/Communicatie/issues) tab en dan filteren op `milestone`, nu zie je ook alle issues in de campagne, maar heb je veel meer filter mogelijkheden.
 
 Elk issue stelt een activiteit voor, indien een activiteit tot een campagne behoort wordt dit weergegeven door de milestone van het issue te zetten.
 
@@ -44,3 +44,8 @@ Als je begint te werken aan een taak sleep je die naar de `in-progress` kolom en
 Als je klaar bent met een taak sleep je die naar de `done` kolom.
 
 Op deze manier weten we allemaal wat er te doen is en wie aan welke taak aan het werken is.
+
+### Activiteit toevoegen
+
+Wanneer je zelf een activiteit wenst toe te voegen moet je er op letten dat je aan de rechterkant de juiste milestone associeert alsook de juiste labels wanneer de activiteit moet plaatsvinden. 
+
