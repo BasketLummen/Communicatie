@@ -5,9 +5,6 @@ _Dit is een template die als basis kan dienen voor de communicatie activiteiten 
 ### 2 weken op voorhand
 
 * Plaats de wedstrijd op de home pagina van de site
-  * Zoek een actie image van de spelende ploeg
-  * Zoek de link naar de wedstrijd op de team pagina (deze komen automatisch op de site)
-  * Maak een Pull Request waar de link op de homepagina weergegeven wordt
   * Publiceer de site
 * Maak een event op facebook
 * Kies de kanalen waar we de wedstrijd willen promoten
