@@ -1,6 +1,6 @@
-## Startdag
+_Dit is een template die als basis kan dienen voor de communicatie activiteiten rond de startdag._
 
-Dit is een template die als basis kan dienen voor de communicatie activiteiten rond de startdag.
+## Startdag
 
 ### Maand op voorhand
 
