@@ -47,5 +47,9 @@ Op deze manier weten we allemaal wat er te doen is en wie aan welke taak aan het
 
 ### Activiteit toevoegen
 
-Wanneer je zelf een activiteit wenst toe te voegen moet je er op letten dat je aan de rechterkant de juiste milestone associeert alsook de juiste labels wanneer de activiteit moet plaatsvinden. 
+Wanneer je zelf een activiteit wenst toe te voegen moet je er op letten dat je aan de rechterkant de juiste milestone associeert alsook de juiste labels wanneer de activiteit moet plaatsvinden.
+
+### Templates
+
+Veel campagnetypes en taken zullen regelmatig opnieuw voorkomen, daarom zijn er [templates](https://github.com/BasketLummen/Communicatie/tree/campaigns/templates) voorzien.
 
