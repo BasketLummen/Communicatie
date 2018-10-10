@@ -38,7 +38,7 @@ Hier plak je de tekst van je bericht zonder opmaak. De opmaak dien je te voorzie
 
 ## Commit new file
 
-Verzorg een *betekenisvolle titel* en *beschrijving* en selecteer de juiste branch op basis van het feit of je [een voorstel aan het maken bent](/processes/voorstellen-indienen)of[wijzigingen aan het doorvoeren bent aan een bestaand voorstel](/processes/voorstellen-wijzigen.md).
+Verzorg een *betekenisvolle titel* en *beschrijving* en selecteer de juiste branch op basis van het feit of je [een voorstel aan het maken bent](/processes/voorstellen-indienen.md) of [wijzigingen aan het doorvoeren bent aan een bestaand voorstel](/processes/voorstellen-wijzigen.md).
 
 ## Voeg de foto toe
 

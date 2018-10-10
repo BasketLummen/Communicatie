@@ -13,7 +13,7 @@ Bekijk dan eerst even deze basis processen:
 
 ## Veel gebruikte handleidingen
 
-* [Niews item maken voor website](/assets/newsitem-maken.md)
+* [Nieuws item maken voor website](/assets/newsitem-maken.md)
 * [Een foto toevoegen aan de website](/assets/foto-toevoegen.md)
 * [De newsgrid updaten](/assets/newsgrid-updaten.md)
 

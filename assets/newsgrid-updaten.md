@@ -75,4 +75,4 @@ Het laatste item in de grid moet altijd leeg blijven, omdat dit verborgen wordt 
 
 ## Commit changes
 
-Als je klaar bent met updaten, kan je wijziging doorvoeren. Verzorg steeds een *betekenisvolle titel* en *beschrijving* en selecteer de juiste branch op basis van het feit of je [een voorstel aan het maken bent](/processes/voorstellen-indienen.md)of[wijzigingen aan het doorvoeren bent aan een bestaand voorstel](/processes/voorstel-wijzigen.md).
+Als je klaar bent met updaten, kan je wijziging doorvoeren. Verzorg steeds een *betekenisvolle titel* en *beschrijving* en selecteer de juiste branch op basis van het feit of je [een voorstel aan het maken bent](/processes/voorstellen-indienen.md) of [wijzigingen aan het doorvoeren bent aan een bestaand voorstel](/processes/voorstellen-wijzigen.md).
