@@ -51,5 +51,5 @@ Wanneer je zelf een activiteit wenst toe te voegen moet je er op letten dat je a
 
 ### Templates
 
-Veel campagnetypes en taken zullen regelmatig opnieuw voorkomen, daarom zijn er [templates](https://github.com/BasketLummen/Communicatie/tree/campaigns/templates) voorzien.
+Veel campagnetypes en taken zullen regelmatig opnieuw voorkomen, daarom zijn er [templates](https://github.com/BasketLummen/Communicatie/tree/templates) voorzien.
 
