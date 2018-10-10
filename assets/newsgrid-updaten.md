@@ -2,14 +2,14 @@
 
 Om een item in de newsgrid te plaatsen heb je 2 dingen nodig
 
-- Een [nieuws item](/assets/newsitem-maken/)
+- Een [nieuws item](/assets/newsitem-maken.md)
 - Een foto die vierkant is, liefst 500x500 pixels voor kleine grid items, en 1000x1000 pixels voor grote grid items. Foto's die niet vierkant zijn, te klein of te groot zijn, zullen best effort ingepast worden, maar het ziet er niet altijd goed uit.
 
-Lees ook eerst het document over hoe je [een voorstel moet maken](/processes/voorstellen-indienen) of hoe je [wijzigingen doorvoert aan een bestaand voorstel](/processes/voorstel-wijzigen/).
+Lees ook eerst het document over hoe je [een voorstel moet maken](/processes/voorstellen-indienen.md) of hoe je [wijzigingen doorvoert aan een bestaand voorstel](/processes/voorstellen-wijzigen.md).
 
 ## Voeg de foto toe
 
-Volg de instructies in [foto toevoegen](/assets/foto-toevoegen) om de foto te uploaden. Deze foto staat best in de `_content\news\img\` folder.
+Volg de instructies in [foto toevoegen](/assets/foto-toevoegen.md) om de foto te uploaden. Deze foto staat best in de `_content\news\img\` folder.
 
 ## Wijzig de newsgrid
 
@@ -72,3 +72,7 @@ Wil je een item verwijderen en niks in de plaats zetten, verander dan de volledi
 ```
 
 Het laatste item in de grid moet altijd leeg blijven, omdat dit verborgen wordt op ipads waar de grid maar 3x3 getoond kan worden.
+
+## Commit changes
+
+Als je klaar bent met updaten, kan je wijziging doorvoeren. Verzorg steeds een *betekenisvolle titel* en *beschrijving* en selecteer de juiste branch op basis van het feit of je [een voorstel aan het maken bent](/processes/voorstellen-indienen.md)of[wijzigingen aan het doorvoeren bent aan een bestaand voorstel](/processes/voorstel-wijzigen.md).

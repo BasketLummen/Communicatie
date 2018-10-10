@@ -5,7 +5,7 @@ Om een nieuwsbericht te maken heb je minstens 2 dingen nodig
 - Een tekst
 - Een foto (om je nieuwsbericht aantrekkelijker te maken wanneer het op social media gedeeld wordt)
 
-Lees ook eerst het document over hoe je [een voorstel moet maken](/processes/voorstellen-indienen) of hoe je [wijzigingen doorvoert aan een bestaand voorstel](/processes/voorstel-wijzigen/).
+Lees ook eerst het document over hoe je [een voorstel moet maken](/processes/voorstellen-indienen.md) of hoe je [wijzigingen doorvoert aan een bestaand voorstel](/processes/voorstellen-wijzigen.md).
 
 ## Maak een pull request aan voor de tekst
 
@@ -38,12 +38,12 @@ Hier plak je de tekst van je bericht zonder opmaak. De opmaak dien je te voorzie
 
 ## Commit new file
 
-Verzorg een *betekenisvolle titel* en *beschrijving* en selecteer de juiste branch op basis van het feit of je [een voorstel aan het maken bent](/processes/voorstellen-indienen)of[wijzigingen aan het doorvoeren bent aan een bestaand voorstel](/processes/voorstel-wijzigen/).
+Verzorg een *betekenisvolle titel* en *beschrijving* en selecteer de juiste branch op basis van het feit of je [een voorstel aan het maken bent](/processes/voorstellen-indienen)of[wijzigingen aan het doorvoeren bent aan een bestaand voorstel](/processes/voorstellen-wijzigen.md).
 
 ## Voeg de foto toe
 
-Volg de instructies in [foto toevoegen](/assets/foto-toevoegen) om de foto gelinked in de frontmatter up te loaden. Deze foto staat best in de `_content\news\img\` folder.
+Volg de instructies in [foto toevoegen](/assets/foto-toevoegen.md) om de foto gelinked in de frontmatter up te loaden. Deze foto staat best in de `_content\news\img\` folder.
 
 ## Overweeg om het nieuws item te linken in de nieuwsgrid
 
-Volg de instructies in [newsgrid updaten](/assets/newsgrid-updaten/) om dit te realiseren. 
+Volg de instructies in [newsgrid updaten](/assets/newsgrid-updaten.md) om dit te realiseren. 
