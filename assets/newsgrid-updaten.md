@@ -9,7 +9,9 @@ Lees ook eerst het document over hoe je [een voorstel moet maken](/processes/voo
 
 ## Voeg de foto toe
 
-Volg de instructies in [foto toevoegen](/assets/foto-toevoegen.md) om de foto te uploaden. Deze foto staat best in de `_content\news\img\` folder.
+Ga naar de `Code` tab in de repository van [de website](https://github.com/BasketLummen/Website), of je eigen fork hiervan, en volg de instructies in [foto toevoegen](/assets/foto-toevoegen.md) om de foto te uploaden. 
+
+Deze foto staat best in de `_content\news\img\` folder.
 
 ## Wijzig de newsgrid
 

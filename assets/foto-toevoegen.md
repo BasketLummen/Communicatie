@@ -6,7 +6,7 @@ Lees ook eerst het document over hoe je [een voorstel moet maken](/processes/voo
 
 ## Voeg de foto toe
 
-Om een foto toe te voegen ga je naar de `Code` tab in de repository en navigeer naar één van de folders voorzien voor foto's, meestal is dit  `_content\news\img\`.
+Om een foto toe te voegen ga je naar de `Code` tab in de repository van [de website](https://github.com/BasketLummen/Website), of je eigen fork hiervan, en navigeer naar één van de folders voorzien voor foto's, meestal is dit  `_content\news\img\`.
 
 Daar klik op de `Upload files` knop.
 

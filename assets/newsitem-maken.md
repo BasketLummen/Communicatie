@@ -9,7 +9,7 @@ Lees ook eerst het document over hoe je [een voorstel moet maken](/processes/voo
 
 ## Maak een pull request aan voor de tekst
 
-Ga naar de `Code` tab in de repository en navigeer naar `_content\news\_posts\` en klik op de `Create new file` knop.
+Ga naar de `Code` tab in de repository van [de website](https://github.com/BasketLummen/Website), of je eigen fork hiervan, en navigeer naar `_content\news\_posts\` en klik op de `Create new file` knop.
 
 In het bovenste tekst vak geef je het bestand een naam in de vorm `yyyy-mm-dd-je-titel.markdown`.
 
