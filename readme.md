@@ -2,7 +2,7 @@
 
 Deze repository wordt gebruikt door Basket Lummen om de externe communicatie te stroomlijnen.
 
-Je vindt hier [handleidingen voor het maken van bepaalde communicatie assets](/assets), [process beschrijvingen](/processes), [handige templates](/templates) en [een overzicht van de status van alle externe communicatie taken](/projects/1).
+Je vindt hier [handleidingen voor het maken van bepaalde communicatie assets](/assets), [process beschrijvingen](/processes), [handige templates](/templates) en [een overzicht van de status van alle externe communicatie taken](https://github.com/BasketLummen/Communicatie/projects/1).
 
 ## Ben je niet zo vertrouwd met github?
 
