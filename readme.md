@@ -8,8 +8,8 @@ Je vindt hier [handleidingen voor het maken van bepaalde communicatie assets](/a
 
 Bekijk dan eerst even deze basis processen:
 
-* [Een voorstel indienen](/processess/voorstellen-indienen.md)
-* [Een bestaand voorstel aanpassen](/processes/voorstel-wijzigen.md)
+* [Een voorstel indienen](/processes/voorstellen-indienen.md)
+* [Een bestaand voorstel aanpassen](/processes/voorstellen-wijzigen.md)
 
 ## Veel gebruikte handleidingen
 
