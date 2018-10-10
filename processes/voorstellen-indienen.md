@@ -4,7 +4,9 @@ Iedereen kan voorstellen indienen voor wijzigingen aan de inhoud van de website 
 
 Eerst en vooral dien je de inhoud, van je voorstel tot wijziging, te maken. Dit is buiten de scope van dit document, maar hier kan je een aantal handleidingen vinden van de meest voorkomende wijzigingen:
 
-TODO: ADD LINKS
+* [Nieuws item maken voor website](/assets/newsitem-maken.md)
+* [Een foto toevoegen aan de website](/assets/foto-toevoegen.md)
+* [De newsgrid updaten](/assets/newsgrid-updaten.md)
 
 ## Maak een branch
 

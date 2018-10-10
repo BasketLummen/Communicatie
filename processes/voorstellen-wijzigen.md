@@ -28,7 +28,9 @@ Ga terug naar de code tab en selecteer die branch.
 
 De effectieve wijziging varieert uiteraard met wat je wil bereiken, vandaar dat deze stap buiten de scope van dit document ligt, maar hier kan je een aantal handleidingen vinden van de meest voorkomende wijzigingen:
 
-TODO: ADD LINKS
+* [Nieuws item maken voor website](/assets/newsitem-maken.md)
+* [Een foto toevoegen aan de website](/assets/foto-toevoegen.md)
+* [De newsgrid updaten](/assets/newsgrid-updaten.md)
 
 Op de wijzigings pagina, vind je onderaan weer een `Commit Changes` sectie, waar je *betekenisvolle titel* en *beschrijving* dient te geven.
 
