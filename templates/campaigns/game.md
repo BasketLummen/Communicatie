@@ -19,6 +19,6 @@ _Dit is een template die als basis kan dienen voor de communicatie activiteiten 
 * Neem foto's
 * Plaats een aantal foto's op facebook
 
-## 1 week na de wedstrijg
+## 1 week na de wedstrijd
 
 * Bezorg sfeerbeelden aan het team
