@@ -38,7 +38,7 @@ De meeste newsgrid items gaan inhoud hebben, voor deze items worden voorgesteld 
 
 #### Class
 
-Standaard zal het newsgrid item in zwart-wit renderen en 1/10de van de grid in beslag nemen, als je dit gedrag wil wijzigen kan je een class toevoegen aan de `div` tag. Bvb `<div class="newsgrid-item has-content *active*">`
+Standaard zal het newsgrid item in zwart-wit renderen en 1/10de van de grid in beslag nemen, als je dit gedrag wil wijzigen kan je een class toevoegen aan de `div` tag. Bvb `<div class="newsgrid-item has-content active">`
 
 * active: Dan zal het item in kleur gerendered worden.
 * large: Dan zal het item 4/10e van de volledige grid in beslag nemen. Merk op dat enkel het 1e, 2e en 4e item large gemaakt mogen worden anders rendert het niet mooi op ipad's waar de grid maar 3x3 getoond kan worden. Tevens dienen items 7, 8 & 9 verwijdert te worden omdat een large item de beschikbare ruimte voor deze items inneemt.
